@@ -1,0 +1,7 @@
+.card{
+    background: lightblue;
+    width: 30vw;
+    border: 2px solid orange;
+    margin: 20px;
+    padding: 10px;
+}

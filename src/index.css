@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.cards{
+    display: flex;
+}
+
+button{
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.card{
+    background: lightblue;
+    /* width: 30vw; */
+    border: 2px solid orange;
+    margin: 20px;
+    padding: 10px;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
